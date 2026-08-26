@@ -3,3 +3,5 @@ hola mi nombre es Vanessa
 En esta practica estoy intentando crear un repositorio local 
 y conectarlo con un repositorio remoto en GitHub.
 
+no se como lo hice pero me salió 
+lo intentare hacer varias veces para ver exactamente lo que hice 
