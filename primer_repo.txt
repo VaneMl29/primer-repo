@@ -1,2 +1,5 @@
-hola mundo
-hbchvc
+hola mi nombre es Vanessa 
+
+En esta practica estoy intentando crear un repositorio local 
+y conectarlo con un repositorio remoto en GitHub.
+
